@@ -1,0 +1,5 @@
+package egovframework.sample.service.impl;
+
+public class SampleServiceImpl {
+
+}

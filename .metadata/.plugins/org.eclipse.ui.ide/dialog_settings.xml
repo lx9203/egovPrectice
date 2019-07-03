@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="378" key="DIALOG_HEIGHT"/>
+		<item value="710" key="DIALOG_X_ORIGIN"/>
+		<item value="268" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab403-DeviceAPI-Web"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab403-DeviceAPI"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab402-ux-component"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab401-mobile-guide-3.5"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab303-easycompany-tutor"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab303-easycompany"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab302-batch-job-test"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab302-batch"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab302-ajax-tutor"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab302-ajax"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab301-mvc-tutor"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab301-mvc"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab202-aop-tutor"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab202-aop"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab201-ioc-tutor"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab201-ioc"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab106-dbio-tutor"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab105-template-project-tutor"/>
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\lab104-common-component-tutor"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\eGovFrame-3.7.0\workspace.edu\egovgettingstarted.zip"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="204" key="DIALOG_X_ORIGIN"/>
+		<item value="190" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

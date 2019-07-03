@@ -1,0 +1,232 @@
+
+[2019.07.01 09:34:21] Installed component:	egovframework.com.cmm	공통
+[2019.07.01 09:34:21] Installed component:	egovframework.com.sts.com	통계공통
+[2019.07.01 09:34:21] Installed component:	egovframework.com.sts.bst	게시물통계
+[2019.07.01 09:34:21] Installed component:	egovframework.com.sts.ust	사용자통계
+[2019.07.01 09:34:21] Installed component:	egovframework.com.sym.cal	일반달력
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cmm	공통
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.com	협업공통
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sec	인증서로그인
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uat.uia	일반로그인
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uat.uap	로그인정책관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sec.rnc	실명확인/ 공공i-Pin실명확인
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sec.drm	부서권한관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sec.rgm	권한그룹관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sec.rmt	롤관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sec.ram	권한관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sec.gmt	그룹관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sec.security	보안
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sec.pki	암호화/복호화
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sts.com	통계공통
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sts.bst	게시물통계
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sts.ust	사용자통계
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sts.cst	접속통계
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sts.sst	화면통계
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sts.rst	보고서통계
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sts.dst	자료이용현황통계
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.tpl	게시판 템플릿
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.bbs	게시판
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.cmt	댓글관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.scp	스크랩기능
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.stf	만족도조사
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.cmy	커뮤니티관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.clb	동호회관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.sms	문자메시지서비스
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.smt.dsm	일지관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.smt.sam	전체일정
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.smt.sdm	부서일정관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.smt.sim	일정관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.smt.lsm	간부일정관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.smt.djm	부서업무함관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.smt.wmr	주간/월간보고관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.smt.mtm	메모/할일관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.smt.mrm	메모보고
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.ems	메일연동 인터페이스
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.ncm	명함관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.cop.adb	주소록관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.ism	약식결재
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.umt	기업/사용자/회원관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.mpe	마이페이지
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.sam.stp	약관관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.sam.cpy	저작권보호정책
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.sam.ipm	개인정보보호정책확인/웹에디터&#40;WYSIWYG&#41;
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olh.hpc	도움말
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olh.wor	용어사전
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olh.faq	FAQ관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olh.qna	Q&A관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olh.awm	행정전문용어 사전관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olh.omm	온라인매뉴얼
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.cns	상담관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.qim	항목관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.qmc	설문관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.qqm	질문관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.qri	설문조사
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.qrm	응답자관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.qtm	설문템플릿관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.mgt	회의관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.opm	온라인poll관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.opr	온라인poll결과
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.olp.opp	온라인poll참여
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.nws	뉴스관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.sit	사이트관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.rec	추천사이트관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.ecc	행사/이벤트/캠페인
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.pwm	팝업창관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.noi	정보알림이
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.bnr	배너관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.lsi	로그인화면이미지관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.rsm	최근검색어 조회
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.msi	메인이미지관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.ulm	통합링크관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.uas	사용자부재관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.isg	인터넷서비스안내 및 관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.wik.bmk	Wiki기능
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.rsn	RSS태그서비스
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.rss	RSS태그관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.tir	Twitter연동
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.ntm	쪽지관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.ntr	받은쪽지함관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.nts	보낸쪽지함관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.mtg	회의실관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.ctn	직원경조사관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.vct	휴가관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.bnt	당직관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.rwd	포상관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.ans	기념일관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.evt	행사신청관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.mnu.stm	사이트맵
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.fbk	페이스북 연동
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.rmm	위치정보기반 지도서비스연계
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.ion.yrc	개인연차 관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.uss.cmt	출퇴근관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.ccm.cca	공통코드
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.ccm.ccc	공통분류코드
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.ccm.cde	공통상세코드
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.ccm.zip	우편번호 주소찾기
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.ccm.acr	행정동 코드관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.ccm.adc	법정동 코드관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.ccm.icr	기관코드수신
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.adr	도로명주소관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.log.lgm	로그관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.log.ulg	사용로그관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.log.tlg	송/수신로그관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.log.slg	시스템이력관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.log.wlg	웹로그관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.log.clg	접속로그관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.log.plg	개인정보 조회 로그
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.mnu.bmm	바로가기 메뉴관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.mnu.mcm	메뉴생성관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.mnu.mpm	메뉴관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.prm	프로그램관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.bat	배치작업관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.sym.bak	백업관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.sym.nwk	네트워크관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.sym.srv	서버정보관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.tbm.tbr	장애신청관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.tbm.tbp	장애처리 결과관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.ssi.syi.iis	연계기관관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.ssi.syi.ims	연계메시지관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.ssi.syi.ist	연계현황관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.ssi.syi.sim	시스템연계관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.dam.per	개인지식관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.dam.map.mat	유형별 지식맵관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.dam.map.tea	조직별 지식맵관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.dam.spe.spe	지식전문가관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.dam.mgm	지식정보관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.dam.app	지식평가관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.dam.spe.req	지식정보제공
+[2019.07.01 09:39:59] Installed component:	egovframework.com.sym.cal	일반달력
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.cas	경고메시지
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.pao	전자관인출력
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.fda.ucc	단위계산
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.fcc	유틸리티
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.wed	웹에디터
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sim	시스템정보확인
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.trm	송수신 모니터링
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.dbm	DB서비스 모니터링
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.htm	HTTP서비스모니터링
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.prm	프로세스 모니터링
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.nsm	네트워크 서비스 모니터링
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.fsm	파일시스템모니터링
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.pxy	프록시서비스
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.ssy	파일동기화
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.rsc	로그인세션정보체크
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.srm	서버자원 모니터링
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.sys.wsi	웹표준검사
+[2019.07.01 09:39:59] Installed component:	egovframework.com.utl.slm	중복로그인 방지
+[2019.07.01 09:39:59] Installed component:	egovframework.com.ext.jfile	JFILE
+[2019.07.01 09:39:59] Installed component:	egovframework.com.ext.oauth	소셜 인증 기반 로그인 기능
+[2019.07.01 09:39:59] Installed component:	egovframework.com.ext.ldap	LDAP조직도관리
+[2019.07.01 09:39:59] Installed component:	egovframework.com.ext.batch	배치 프레임워크 간소화 기능
+[2019.07.01 09:39:59] Installed component:	egovframework.com.ext.msg	Web Messenger
+[2019.07.01 09:52:56] Installed component:	egovframework.com.cmm	공통
+[2019.07.01 09:52:56] Installed component:	egovframework.com.uss.ion.ism	약식결재
+[2019.07.01 14:40:38] Installed component:	egovframework.com.cmm	공통
+[2019.07.01 14:40:38] Installed component:	egovframework.com.cop.com	협업공통
+[2019.07.01 14:40:38] Installed component:	egovframework.com.utl.sec	인증서로그인
+[2019.07.01 14:40:38] Installed component:	egovframework.com.uat.uia	일반로그인
+[2019.07.01 14:40:38] Installed component:	egovframework.com.uat.uap	로그인정책관리
+[2019.07.01 14:40:38] Installed component:	egovframework.com.sec.rnc	실명확인/ 공공i-Pin실명확인
+[2019.07.01 14:40:38] Installed component:	egovframework.com.sec.drm	부서권한관리
+[2019.07.01 14:40:38] Installed component:	egovframework.com.sec.rgm	권한그룹관리
+[2019.07.01 14:40:38] Installed component:	egovframework.com.sec.rmt	롤관리
+[2019.07.01 14:40:38] Installed component:	egovframework.com.sec.ram	권한관리
+[2019.07.01 14:40:38] Installed component:	egovframework.com.sec.gmt	그룹관리
+[2019.07.01 14:40:38] Installed component:	egovframework.com.sec.security	보안
+[2019.07.01 14:40:38] Installed component:	egovframework.com.cop.ems	메일연동 인터페이스
+[2019.07.01 14:40:38] Installed component:	egovframework.com.cop.ncm	명함관리
+[2019.07.01 14:40:38] Installed component:	egovframework.com.cop.adb	주소록관리
+[2019.07.01 14:40:38] Installed component:	egovframework.com.uss.ion.ism	약식결재
+[2019.07.01 14:40:38] Installed component:	egovframework.com.uss.umt	기업/사용자/회원관리
+[2019.07.01 14:40:38] Installed component:	egovframework.com.sym.ccm.zip	우편번호 주소찾기
+[2019.07.01 14:40:38] Installed component:	egovframework.com.utl.fcc	유틸리티
+[2019.07.01 14:40:38] Installed component:	egovframework.com.utl.wed	웹에디터
+[2019.07.01 14:40:38] Installed component:	egovframework.com.utl.sim	시스템정보확인
+[2019.07.01 14:58:05] Installed component:	egovframework.com.utl.sec	인증서로그인
+[2019.07.01 14:58:05] Installed component:	egovframework.com.uat.uap	로그인정책관리
+[2019.07.01 14:58:05] Installed component:	egovframework.com.sym.mnu.stm	사이트맵
+[2019.07.01 14:58:05] Installed component:	egovframework.com.sym.mnu.bmm	바로가기 메뉴관리
+[2019.07.01 14:58:05] Installed component:	egovframework.com.sym.mnu.mcm	메뉴생성관리
+[2019.07.01 14:58:05] Installed component:	egovframework.com.sym.mnu.mpm	메뉴관리
+[2019.07.01 14:58:05] Installed component:	egovframework.com.sym.prm	프로그램관리
+[2019.07.01 14:58:05] Installed component:	egovframework.com.sym.cal	일반달력
+[2019.07.01 15:17:16] Installed component:	egovframework.com.cmm	공통
+[2019.07.01 15:17:16] Installed component:	egovframework.com.uss.ion.ism	약식결재
+[2019.07.01 15:24:38] Installed component:	egovframework.com.uat.uia	일반로그인
+[2019.07.01 15:24:38] Installed component:	egovframework.com.cop.ems	메일연동 인터페이스
+[2019.07.01 15:24:38] Installed component:	egovframework.com.utl.fcc	유틸리티
+[2019.07.01 15:24:38] Installed component:	egovframework.com.utl.wed	웹에디터
+[2019.07.01 15:24:38] Installed component:	egovframework.com.utl.sim	시스템정보확인
+[2019.07.01 15:28:44] Installed component:	egovframework.com.sec.rnc	실명확인/ 공공i-Pin실명확인
+[2019.07.01 15:28:44] Installed component:	egovframework.com.uss.umt	기업/사용자/회원관리
+[2019.07.01 15:28:44] Installed component:	egovframework.com.sym.ccm.zip	우편번호 주소찾기
+[2019.07.01 15:28:44] Installed component:	egovframework.com.utl.sys.ssy	파일동기화
+[2019.07.01 15:37:05] Installed component:	egovframework.com.uat.uap	로그인정책관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sec.drm	부서권한관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sec.rgm	권한그룹관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sec.rmt	롤관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sec.ram	권한관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sec.gmt	그룹관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sec.security	보안
+[2019.07.01 15:37:05] Installed component:	egovframework.com.uss.sam.stp	약관관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.uss.sam.cpy	저작권보호정책
+[2019.07.01 15:37:05] Installed component:	egovframework.com.uss.sam.ipm	개인정보보호정책확인/웹에디터&#40;WYSIWYG&#41;
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.mnu.stm	사이트맵
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.ccm.cca	공통코드
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.ccm.ccc	공통분류코드
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.ccm.cde	공통상세코드
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.ccm.zip	우편번호 주소찾기
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.ccm.acr	행정동 코드관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.ccm.adc	법정동 코드관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.ccm.icr	기관코드수신
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.adr	도로명주소관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.mnu.bmm	바로가기 메뉴관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.mnu.mcm	메뉴생성관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.mnu.mpm	메뉴관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.prm	프로그램관리
+[2019.07.01 15:37:05] Installed component:	egovframework.com.sym.cal	일반달력
+[2019.07.01 15:37:05] Installed component:	egovframework.com.utl.cas	경고메시지
+[2019.07.01 15:37:05] Installed component:	egovframework.com.utl.sys.wsi	웹표준검사
+[2019.07.01 16:05:16] Installed component:	egovframework.com.uss.ion.lsi	로그인화면이미지관리
+[2019.07.01 16:05:16] Installed component:	egovframework.com.utl.slm	중복로그인 방지
+[2019.07.01 16:05:16] Installed component:	egovframework.com.ext.oauth	소셜 인증 기반 로그인 기능

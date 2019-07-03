@@ -1,0 +1,9 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/lab204-ibatis-tutor/src/test/resources/META-INF/spring/context-aspect.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/lab204-ibatis-tutor/src/test/resources/META-INF/spring/context-common.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/lab204-ibatis-tutor/src/test/resources/META-INF/spring/context-datasource.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/lab204-ibatis-tutor/src/test/resources/META-INF/spring/context-sqlMap.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/lab204-ibatis-tutor/src/test/resources/META-INF/spring/context-transaction.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/lab204-ibatis/src/test/resources/META-INF/spring/context-common.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/lab204-ibatis/src/test/resources/META-INF/spring/context-datasource.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/sampleWeb/src/main/resources/egovframework/spring/context-common.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

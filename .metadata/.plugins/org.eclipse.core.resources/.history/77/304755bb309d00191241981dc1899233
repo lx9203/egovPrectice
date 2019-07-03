@@ -1,0 +1,38 @@
+	package egovframework.lab.ioc.service;
+
+import java.io.Serializable;
+import java.math.BigDecimal;
+import java.util.Date;
+
+public class EmpVO implements Serializable {
+	private int empNo;
+	private String empName;
+	private String job;
+    // TODO [Step 1-2, 2-2] EmpVO 작성
+	
+	public int getEmpNo() {
+		return empNo;
+	}
+	public void setEmpNo(int empNo) {
+		this.empNo = empNo;
+	}
+	public String getEmpName() {
+		return empName;
+	}
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+	public String getJob() {
+		return job;
+	}
+	public void setJob(String job) {
+		this.job = job;
+	}
+	@Override
+	public String toString() {
+		return "EmpVO [empNo=" + empNo + ", empName=" + empName + ", job=" + job + "]";
+	}
+	
+	
+
+}
