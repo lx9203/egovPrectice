@@ -1,0 +1,1 @@
+create table jdbc_test ( username varchar(12), email varchar(30));

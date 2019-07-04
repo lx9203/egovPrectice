@@ -126,7 +126,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log." suffix=".txt"/>
 
-      <Context docBase="lab105" path="/sht_webapp" reloadable="true" source="org.eclipse.jst.jee.server:lab105"/><Context docBase="lab102-code-generation" path="/lab102-code-generation" reloadable="true" source="org.eclipse.jst.jee.server:lab102-code-generation"/><Context docBase="lab104" path="/lab104" reloadable="true" source="org.eclipse.jst.jee.server:lab104"/><Context docBase="example" path="/example" reloadable="true" source="org.eclipse.jst.jee.server:example"/><Context docBase="sampleWeb" path="/sampleWeb" reloadable="true" source="org.eclipse.jst.jee.server:sampleWeb"/></Host>
+      <Context docBase="lab105" path="/sht_webapp" reloadable="true" source="org.eclipse.jst.jee.server:lab105"/><Context docBase="lab102-code-generation" path="/lab102-code-generation" reloadable="true" source="org.eclipse.jst.jee.server:lab102-code-generation"/><Context docBase="lab104" path="/lab104" reloadable="true" source="org.eclipse.jst.jee.server:lab104"/><Context docBase="example" path="/example" reloadable="true" source="org.eclipse.jst.jee.server:example"/><Context docBase="sampleWeb" path="/sampleWeb" reloadable="true" source="org.eclipse.jst.jee.server:sampleWeb"/><Context docBase="jdbctest" path="/jdbctest" reloadable="true" source="org.eclipse.jst.jee.server:jdbctest"/></Host>
     </Engine>
   </Service>
 </Server>

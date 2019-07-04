@@ -30,7 +30,14 @@ public class XmlEmpServiceImpl implements EmpService {
 
 	@Override
 	public EmpVO selectEmp(EmpVO empVO) throws Exception {
-		return empDAO.selectEmp(empVO);
+		EmpVO resultVO;
+		resultVO = empDAO.selectEmp(empVO);
+		
+		if(resultVO == null) {
+			throw new Exception("no data found!");
+		}
+		
+		return resultVO;
 	}
 
 	@Override

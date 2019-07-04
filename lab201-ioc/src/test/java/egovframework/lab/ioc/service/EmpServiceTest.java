@@ -21,7 +21,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
     })
 public class EmpServiceTest {
 	
-	@Resource(name = "xmlEmpService")
+	@Resource(name = "annotationEmpService")
 	EmpService empService;
     // TODO [Step 1-6, 2-6] EmpServiceTest 작성
 	
