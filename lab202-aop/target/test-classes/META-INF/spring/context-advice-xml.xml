@@ -5,5 +5,16 @@
 				http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.0.xsd">
 
 	<!-- TODO [Step 1-7] xml 설정 방식의 AOP 설정  -->
-
+	<bean id="adviceUseingXMl" class="egovframework.lab.aop.xml.AdviceUsingXML" />
+	
+	<aop:config>
+	    <aop:pointcut expression="excution(* egovframework.lab.aop.Xml*Impl.*(..))" id="targetMethod"/>
+	    <aop:aspect ref="adviceUsingXML">
+	        <aop:before pointcut-ref="targerMethod" method="eforeTargetMethod"/>
+	        <aop:after-returning pointcut-ref="targerMethod" method="afterReturningTargetMethod" returning="retVal"/>
+	        <aop:after-throwing pointcut-ref="targetMethod" method="afterThrowingTargetMethod" throwing="exception"/>
+	        <aop:after pointcut-ref="targetmethod" method="afterTargetMethod" />
+	        <aop:around pointcut-ref="targetMethod" method="aroundTargetMethod"/>
+	    </aop:aspect>
+	</aop:config>
 </beans>

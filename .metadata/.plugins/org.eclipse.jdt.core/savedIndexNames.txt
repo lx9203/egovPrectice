@@ -20,7 +20,6 @@ INDEX VERSION 1.130+C:\eGovFrame-3.7.0\workspace.edu\.metadata\.plugins\org.ecli
 3249582778.index
 895894411.index
 513498598.index
-522939067.index
 3359299690.index
 2562879757.index
 1136193955.index
@@ -80,10 +79,10 @@ INDEX VERSION 1.130+C:\eGovFrame-3.7.0\workspace.edu\.metadata\.plugins\org.ecli
 1787096600.index
 1783649361.index
 2293674311.index
+2143355517.index
 4173667098.index
 1194560371.index
 546857645.index
-1646321581.index
 3223658994.index
 1017541110.index
 4110988941.index
@@ -91,9 +90,8 @@ INDEX VERSION 1.130+C:\eGovFrame-3.7.0\workspace.edu\.metadata\.plugins\org.ecli
 3847559959.index
 3276863483.index
 2208444635.index
-612270753.index
 2974175071.index
-2291681965.index
+4038231591.index
 1048068950.index
 986699852.index
 2601586455.index
@@ -113,6 +111,7 @@ INDEX VERSION 1.130+C:\eGovFrame-3.7.0\workspace.edu\.metadata\.plugins\org.ecli
 237346227.index
 3989945490.index
 2341907539.index
+800213768.index
 1278913595.index
 4047989354.index
 2848542659.index
@@ -140,8 +139,8 @@ INDEX VERSION 1.130+C:\eGovFrame-3.7.0\workspace.edu\.metadata\.plugins\org.ecli
 1656917277.index
 225526744.index
 3271800440.index
+682813761.index
 1210611018.index
-3310087608.index
 1154747230.index
 3366291092.index
 2313232647.index
