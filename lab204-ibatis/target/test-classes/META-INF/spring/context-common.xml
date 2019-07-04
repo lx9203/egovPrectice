@@ -5,7 +5,7 @@
 				http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd">
 
 	<!-- TODO [Step 1-2] PropertyPlaceholderConfigurer 설정 -->
-
+	<context:property-placeholder location="classpath:/META-INF/spring/jdbc.properties" />
 
 
 
