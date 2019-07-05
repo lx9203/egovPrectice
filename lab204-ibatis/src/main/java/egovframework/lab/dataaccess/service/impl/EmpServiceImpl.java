@@ -17,9 +17,11 @@ public class EmpServiceImpl extends EgovAbstractServiceImpl implements EmpServic
     
     // TODO [Step 2-3] EmpServiceImpl 작성 추가 
 
-	
+	@Resource(name = "privaryTypeSequenceIds")
+	EgovIdGnrService egovIdGnrService;
 
-	
+	@Resource(name = "empDAO")
+	private EmpDAO empDAO;
 
 	public BigDecimal insertEmp(EmpVO empVO) throws Exception {
         // ID generation Service 를 사용하여 key 를 땀. 여기서

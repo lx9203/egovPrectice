@@ -6,7 +6,9 @@
 
 	
 	<!--  TODO [Step 1-2] DataSource 설정 --> 
-
+	<jdbc:embedded-database id="dataSource" type="HSQL">
+	    <jdbc:script location="META-INF/testdata/sample_schema_hsql.sql"/>
+	</jdbc:embedded-database>
 
 
 

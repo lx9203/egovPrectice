@@ -6,7 +6,7 @@
 	<item value="182" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0"/>
 	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
 		<item value="true" key="ShowStatusLine"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=sampleWeb/C:\/eGovFrame-3.7.0\/maven\/repository\/antlr\/antlr\/2.7.7\/antlr-2.7.7.jar&amp;lt;antlr.debug.misc(ASTFrame.class[ASTFrame&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=sampleWeb/C:\/eGovFrame-3.7.0\/maven\/repository\/antlr\/antlr\/2.7.7\/antlr-2.7.7.jar&amp;lt;antlr.debug.misc(ASTFrame.class[ASTFrame&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=lab204-ibatis/C:\/eGovFrame-3.7.0\/maven\/repository\/hsqldb\/hsqldb\/1.8.0.10\/hsqldb-1.8.0.10.jar&amp;lt;org.hsqldb.util(CodeSwitcher.class[CodeSwitcher&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
 		<section name="DialogBoundsSettings">
 			<item value="600" key="DIALOG_WIDTH"/>
 			<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>

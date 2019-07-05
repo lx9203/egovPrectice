@@ -1,7 +1,10 @@
 package egovframework.lab.dataaccess.service.impl;
 
+import java.util.List;
+
 import org.springframework.stereotype.Repository;
 
+import egovframework.lab.dataaccess.service.EmpVO;
 import egovframework.rte.psl.dataaccess.EgovAbstractMapper;
 
 /**
@@ -11,6 +14,26 @@ import egovframework.rte.psl.dataaccess.EgovAbstractMapper;
 public class EmpDAO extends EgovAbstractMapper {
 	
 	// TODO [Step 2-2] EmpDAO 작성 (EgovAbstractMapper 상속한 DAO) 
-
+	public void insertEmp(EmpVO vo)
+	{
+		insert("Emp.insertEmp", vo);
+	}
+	public int updateEmp(EmpVO vo)
+	{
+		return update("Emp.updateEmp", vo);
+	}
+	public int deleteEmp(EmpVO vo)
+	{
+		return delete("Emp.deleteEmp", vo);
+	}
+	public EmpVO selectEmp(EmpVO vo)
+	{
+		return selectOne("Emp.selectEmp", vo);
+	}
+	@SuppressWarnings("unchecked")
+	public List<EmpVO> selectEmpList(EmpVO searchVo)
+	{
+		return selectList("Emp.selectEmpList", searchVo);
+	}
 	
 }

@@ -18,7 +18,8 @@ import egovframework.rte.fdl.idgnr.EgovIdGnrService;
 public class EmpServiceImpl extends EgovAbstractServiceImpl implements EmpService {
 
 	// TODO [Step 2-1] EmpServiceImpl 추가 작성
-	
+	@Resource(name = "empDAO")
+	private EmpDAO empDAO;
 	// TODO [Step 4-2] EmpServiceImpl의 주석 EmpMapper -> EmpDAO로 변경 후 다시 테스트
 
 	// TODO [Step 3-1] EmpServiceImpl 추가 작성
