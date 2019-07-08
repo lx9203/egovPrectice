@@ -12,20 +12,20 @@
      --> 
 	<job id="fixedLengthToJdbcJob" parent="eGovBaseJob" xmlns="http://www.springframework.org/schema/batch">
 		<step id="fixedLengthToJdbcStep" parent="eGovBaseStep">
-			<!-- 
 			<tasklet>
 					<chunk reader=""
 					processor="" 
 					writer=""
 					commit-interval="2" />
 			</tasklet>
-			--> 
+			<!-- 
 			<tasklet>
 					<chunk reader="fixedLengthToJdbcJob.fixedLengthToJdbcStep.fixedLengthItemReader"
 					processor="fixedLengthToJdbcJob.fixedLengthToJdbcStep.itemProcessor" 
 					writer="fixedLengthToJdbcJob.fixedLengthToJdbcStep.jdbcItemWriter"
 					commit-interval="2" />
 			</tasklet>
+			 -->
 		</step>
 	</job>
 
