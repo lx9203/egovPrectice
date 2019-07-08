@@ -230,3 +230,14 @@
 [2019.07.01 16:05:16] Installed component:	egovframework.com.uss.ion.lsi	로그인화면이미지관리
 [2019.07.01 16:05:16] Installed component:	egovframework.com.utl.slm	중복로그인 방지
 [2019.07.01 16:05:16] Installed component:	egovframework.com.ext.oauth	소셜 인증 기반 로그인 기능
+[2019.07.08 11:18:38] Installed component:	egovframework.com.cmm	공통
+[2019.07.08 11:18:38] Installed component:	egovframework.com.cop.com	협업공통
+[2019.07.08 11:18:38] Installed component:	egovframework.com.cop.tpl	게시판 템플릿
+[2019.07.08 11:18:38] Installed component:	egovframework.com.cop.bbs	게시판
+[2019.07.08 11:18:38] Installed component:	egovframework.com.cop.cmt	댓글관리
+[2019.07.08 11:18:38] Installed component:	egovframework.com.cop.scp	스크랩기능
+[2019.07.08 11:18:38] Installed component:	egovframework.com.cop.stf	만족도조사
+[2019.07.08 11:18:38] Installed component:	egovframework.com.sym.cal	일반달력
+[2019.07.08 11:18:38] Installed component:	egovframework.com.utl.fcc	유틸리티
+[2019.07.08 11:18:38] Installed component:	egovframework.com.utl.wed	웹에디터
+[2019.07.08 11:18:38] Installed component:	egovframework.com.utl.sim	시스템정보확인
